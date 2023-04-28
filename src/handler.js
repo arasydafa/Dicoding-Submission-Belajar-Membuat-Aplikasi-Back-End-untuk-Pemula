@@ -75,6 +75,7 @@ const getAllBooksHandler = (request, h) => {
     return isNameMatched && isReadingMatched && isFinishedMatched;
   });
 
+  // eslint-disable-next-line no-shadow
   const listBook = filteredBooks.map(({ id, name, publisher }) => ({ id, name, publisher }));
 
   return h.response({
