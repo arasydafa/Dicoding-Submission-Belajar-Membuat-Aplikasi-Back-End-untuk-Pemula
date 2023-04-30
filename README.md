@@ -1,6 +1,6 @@
 # Bookshelf API
 
-## Koleksi Write-Up CTF
+## Deskripsi
 Repositori ini berisi kode sumber untuk submission dari kursus "Belajar Membuat Aplikasi Back-End untuk Pemula" di [Dicoding](https://www.dicoding.com/academies/261).
 
 ## Gambaran Proyek
